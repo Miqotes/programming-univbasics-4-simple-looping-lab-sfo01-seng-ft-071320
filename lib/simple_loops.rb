@@ -8,3 +8,5 @@ uptime = 0
   end
 end
   
+  
+def loop_message_n_times(message)
