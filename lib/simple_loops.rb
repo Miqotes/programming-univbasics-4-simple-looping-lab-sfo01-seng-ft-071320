@@ -17,10 +17,10 @@ def loop_message_n_times(message, limit)
   end
 end
 
-def output_array(array)
+def output_array(message)
   count = 0 
-  while count < array.length do
-    puts array[count]
+  while count < message.length do
+    puts message[count]
     count += 1 
   end
 end
